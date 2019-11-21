@@ -1,10 +1,7 @@
-Workaround Repo for mzk10k/yii2-tcpdf
+Yii2 TCPDF
 ============================================================
 
-This repository is only as a workaround for the now (one can only asssume) abandoned yii2-tcpdf package from mzk10k. I did write this code, I am not claiming to have written this code, this code is provided as is with no garauntee it will work in your project. I happen to have an existing copy of the code and am unable to continue dev on a current project without this package.
-
-
-Original readme.md below:
+Yii2 TCPDF to load TCPDF libraries in a Yii2 site
 
 
 TCPDF TH
@@ -14,16 +11,25 @@ Version: 1.0.1
 
 Release date: 2019-11-21
 
-Author:	Adrian
 
 ------------------------------------------------------------
 
 Install 
 ============================================================
 
-```
-$ composer require mzk10k/yii2-tcpdf ~1.0
-```
+The preferred way to install this extension is through composer.
+
+Either run
+
+$ php composer.phar require mzk10k/yii2-tcpdf "dev-master"
+
+
+or add
+
+"mzk10k/yii2-tcpdf": "dev-master"
+
+to the require section of your composer.json file.
+
 
 Example 
 ============================================================

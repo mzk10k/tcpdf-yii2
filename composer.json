@@ -2,20 +2,19 @@
 	"name": "mzk10k/yii2-tcpdf",
 	"type": "yii2-extension",
 	"version": "1.0",
-	"homepage": "http://www.tcpdf.org/",
-	"description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
+	"homepage": "https://github.com/mzk10k/tcpdf-yii2",
+	"description": "Yii2 TCPDF to load TCPDF libraries in a Yii2 site. Compatible with PHP 7",
 	"keywords": ["mzk10k","PDF","tcpdf","yii2","yii2 tcpdf"],
-	"license": "BSD-3-Clause",
+	"license": "GNU",
 	"authors": [
 	{
 		"name": "Adrian",
-		"email": "mzk10k@gmail.com",
-		"homepage": "https://mzkserver.com"
+		"email": "mzk10k@gmail.com"
 	}
 	],
 	"require": {
-		"php": ">=5.4.0",
-		"yiisoft/yii2": ">=2.0.14"
+		"yiisoft/yii2": ">=2.0.0",
+		"tecnickcom/tcpdf": "@stable"
 	},
 	 "autoload": {
         "psr-4": {
