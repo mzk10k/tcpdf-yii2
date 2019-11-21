@@ -14,9 +14,8 @@
 	},
 	],
 	"require": {
-		"php": ">=7.3.5",
-		"yiisoft/yii2": "~2.0.13",
-		"tecnickcom/TCPDF": "6.3.2"
+		"php": ">=5.6.40",
+		"yiisoft/yii2": "~2.0.6",
 	},
 	 "autoload": {
         "psr-4": {

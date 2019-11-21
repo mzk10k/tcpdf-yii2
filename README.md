@@ -1,9 +1,7 @@
-Workaround Repo for Drivesoftz/yii2-tcpdf
+Workaround Repo for mzk10k/yii2-tcpdf
 ============================================================
 
-This repository is only as a workaround for the now (one can only asssume) abandoned yii2-tcpdf package from Drivesoftz. I did write this code, I am not claiming to have written this code, this code is provided as is with no garauntee it will work in your project. I happen to have an existing copy of the code and am unable to continue dev on a current project without this package.
-
-Any questions about code can be addressed to: Eakkabin Jaikeawma (CoachMaxz) - eakkabin_it@outlook.co.th - https://drivesoft.co.th/
+This repository is only as a workaround for the now (one can only asssume) abandoned yii2-tcpdf package from mzk10k. I did write this code, I am not claiming to have written this code, this code is provided as is with no garauntee it will work in your project. I happen to have an existing copy of the code and am unable to continue dev on a current project without this package.
 
 
 Original readme.md below:
@@ -14,9 +12,9 @@ TCPDF TH
 
 Version: 1.0.1
 
-Release date: 2016-03-13
+Release date: 2019-11-21
 
-Author:	Eakkabin Jaikeawma (CoachMaxz)
+Author:	Adrian
 
 ------------------------------------------------------------
 
@@ -24,7 +22,7 @@ Install
 ============================================================
 
 ```
-$ composer require drivesoftz/yii2-tcpdf ~1.0
+$ composer require mzk10k/yii2-tcpdf ~1.0
 ```
 
 Example 
