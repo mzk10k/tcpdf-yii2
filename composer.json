@@ -13,11 +13,7 @@
 		"homepage": "https://mzkserver.com"
 	}
 	],
-	"require": {
-		"php": ">=5.4.0",
-		"yiisoft/yii2": ">=2.0.14"
-	},
-	 "autoload": {
+	"autoload": {
         "psr-4": {
             "mzk10k\\tcpdf\\": ""
         }
