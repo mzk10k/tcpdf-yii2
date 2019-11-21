@@ -5,7 +5,7 @@
 	"homepage": "https://github.com/mzk10k/tcpdf-yii2",
 	"description": "Yii2 TCPDF to load TCPDF libraries in a Yii2 site. Compatible with PHP 7",
 	"keywords": ["mzk10k","PDF","tcpdf","yii2","yii2 tcpdf"],
-	"license": "BSD 3-Clause",
+	"license": "MIT",
 	"authors": [
 	{
 		"name": "Adrian",
